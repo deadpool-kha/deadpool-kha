@@ -97,8 +97,13 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/angadkhanal"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Angad Khanal's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:khanalak07@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Angad Khanal's Email"/></a>
+  <a href="https://www.linkedin.com/in/angadkhanal/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Angad Khanal's LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="mailto:khanalak07@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Angad Khanal's Email"/>
+  </a>
 </p>
 
 <picture>

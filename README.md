@@ -37,10 +37,7 @@
   <a href="https://github.com/deadpool-kha">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deadpool-kha&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="deadpool-kha's GitHub Stats" />
   </a>
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=deadpool-kha&theme=nightowl&radius=10" alt="deadpool-kha's Activity Graph" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
